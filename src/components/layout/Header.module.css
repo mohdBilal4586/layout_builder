@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  padding: 0 5%;
+  padding-top: 1rem;
+  background-color: #007fff;
+  color: white;
+}
+
+.header div {
+  display: flex;
+}
+
+.header a {
+  padding-right: 15px;
+  padding-top: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.header a:hover,
+.header a:active {
+    border-bottom: 4px solid white;
+}
